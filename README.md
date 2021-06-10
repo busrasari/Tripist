@@ -1,5 +1,6 @@
 # Tripist 
 Eine mobile Reiseführer-App für Istanbul
+https://play.google.com/store/apps/details?id=com.kopfkino.tripist
 ## Motivation
 Bevor wir uns auf eine Reise begeben, gibt es hierzu viele Websites, auf denen wir Informationen im Internet hierzu finden können, aber es erfordert viel Recherche. Eine Mobile Anwendung, mit der wir diese Informationen einfacher und vollständiger erhalten können, ist für alle nützlicher. Ein solcher Reiseführer ist in einer Stadt wie Istanbul, die überfüllt ist und viele Touristen anzieht, unverzichtbar. Nicht nur die Touristen, sondern auch die in Istanbul lebenden Menschen können aufgrund der geschäftigen Arbeitszeiten keine Zeit finden, genügend Nachforschungen anzustellen. Wenn wir daran denken, einen bestimmten Stadtteil zu besuchen, hielten wir es daher für sehr vorteilhaft, dass es sehr nützlich ist, eine Mobile Anwendung zu haben, in der wir unsere Zeit gut verbringen, die uns darüber informiert, was wir dort tun sollen.
 
